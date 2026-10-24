@@ -4,6 +4,10 @@ How can I ensure that my code, program, or software is functional and secure?
 
 
 For project one, we had three milestones to complete: contact services, task services, and appointment services. Each of these milestones had specific software requirements that must be completed in order for the software to be considered complete. 
+
+How do I interpret user needs and incorporate them into a program?
+
+
 I would test the code as often as I could, after each sprint, when completing a milestone, as well as when integrating with other people's work. I would also check to see how a user would break it or use it in an incorrect manner in order to prevent and prevent crashes.
 
 
